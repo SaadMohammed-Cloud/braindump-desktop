@@ -1,0 +1,19 @@
+{
+  "name": "braindump-desktop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Floating always-on-top desktop notes companion for Braindump.",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.2"
+  },
+  "devDependencies": {
+    "electron": "^43.1.0"
+  }
+}
